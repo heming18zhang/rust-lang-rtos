@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "artos-core",
+    "host",
+]
+
+resolver = "2"
